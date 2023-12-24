@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65860d451b66be680780917a"
+  },
+  "agency_ID": 101,
+  "email": "info@agency1.com",
+  "phone": "555-1111",
+  "address": "321 Agency St",
+  "ta_name": "Travel Experts",
+  "service_type": "Full-Service"
+},
+{
+  "_id": {
+    "$oid": "65860d451b66be680780917b"
+  },
+  "agency_ID": 102,
+  "email": "info@agency2.com",
+  "phone": "555-2222",
+  "address": "654 Agency Ave",
+  "ta_name": "Adventure Tours",
+  "service_type": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "65860d451b66be680780917c"
+  },
+  "agency_ID": 103,
+  "email": "info@agency3.com",
+  "phone": "555-3333",
+  "address": "987 Agency Blvd",
+  "ta_name": "Budget Travel",
+  "service_type": "Budget-Friendly"
+},
+{
+  "_id": {
+    "$oid": "65860d451b66be680780917d"
+  },
+  "agency_ID": 104,
+  "email": "info@agency4.com",
+  "phone": "555-4444",
+  "address": "1234 Agency Ln",
+  "ta_name": "Luxury Escapes",
+  "service_type": "Luxury"
+},
+{
+  "_id": {
+    "$oid": "65860d451b66be680780917e"
+  },
+  "agency_ID": 105,
+  "email": "info@agency5.com",
+  "phone": "555-5555",
+  "address": "567 Agency Rd",
+  "ta_name": "Cruise Masters",
+  "service_type": "Cruise"
+},
+{
+  "_id": {
+    "$oid": "6588a2ae85bbed969ba0a8aa"
+  }
+}]

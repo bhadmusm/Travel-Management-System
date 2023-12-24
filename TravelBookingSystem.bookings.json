@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809193"
+  },
+  "booking_ID": 1,
+  "b_date": {
+    "$date": "2023-01-01T00:00:00.000Z"
+  },
+  "b_status": "Confirmed",
+  "total_cost": 500,
+  "preference_ID": 1,
+  "agency_ID": 101,
+  "transport_ID": 204,
+  "accommodation_ID": 305
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809194"
+  },
+  "booking_ID": 2,
+  "b_date": {
+    "$date": "2023-02-15T00:00:00.000Z"
+  },
+  "b_status": "Pending",
+  "total_cost": 700,
+  "preference_ID": 2,
+  "agency_ID": 101,
+  "transport_ID": 202,
+  "accommodation_ID": 302
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809195"
+  },
+  "booking_ID": 3,
+  "b_date": {
+    "$date": "2023-03-04T00:00:00.000Z"
+  },
+  "b_status": "Cancelled",
+  "total_cost": 400,
+  "preference_ID": 3,
+  "agency_ID": 102,
+  "transport_ID": 201,
+  "accommodation_ID": 303
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809196"
+  },
+  "booking_ID": 4,
+  "b_date": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "b_status": "Cancelled",
+  "total_cost": 2500,
+  "preference_ID": 4,
+  "agency_ID": 102,
+  "transport_ID": 203,
+  "accommodation_ID": 304
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809197"
+  },
+  "booking_ID": 5,
+  "b_date": {
+    "$date": "2023-02-15T00:00:00.000Z"
+  },
+  "b_status": "Confirmed",
+  "total_cost": 750,
+  "preference_ID": 5,
+  "agency_ID": 103,
+  "transport_ID": 204,
+  "accommodation_ID": 302
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809198"
+  },
+  "booking_ID": 6,
+  "b_date": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  },
+  "b_status": "Confirmed",
+  "total_cost": 600,
+  "preference_ID": 6,
+  "agency_ID": 103,
+  "transport_ID": 205,
+  "accommodation_ID": 303
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be6807809199"
+  },
+  "booking_ID": 7,
+  "b_date": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "b_status": "Confirmed",
+  "total_cost": 900,
+  "preference_ID": 7,
+  "agency_ID": 104,
+  "transport_ID": 204,
+  "accommodation_ID": 301
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be680780919a"
+  },
+  "booking_ID": 8,
+  "b_date": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "b_status": "Pending",
+  "total_cost": 500,
+  "preference_ID": 8,
+  "agency_ID": 104,
+  "transport_ID": 202,
+  "accommodation_ID": 302
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be680780919b"
+  },
+  "booking_ID": 9,
+  "b_date": {
+    "$date": "2023-01-29T00:00:00.000Z"
+  },
+  "b_status": "Cancelled",
+  "total_cost": 300,
+  "preference_ID": 9,
+  "agency_ID": 105,
+  "transport_ID": 201,
+  "accommodation_ID": 303
+},
+{
+  "_id": {
+    "$oid": "65860dfd1b66be680780919c"
+  },
+  "booking_ID": 10,
+  "b_date": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "b_status": "Confirmed",
+  "total_cost": 6500,
+  "preference_ID": 10,
+  "agency_ID": 105,
+  "transport_ID": 205,
+  "accommodation_ID": 305
+}]
