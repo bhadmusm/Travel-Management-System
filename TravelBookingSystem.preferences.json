@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65860d6e1b66be6807809189"
+  },
+  "preference_ID": 1,
+  "accommodation_type": "Hotel",
+  "min_budget": 100,
+  "max_budget": 200,
+  "transport_mode": "Airplane",
+  "food_pref": "Vegetarian",
+  "language_pref": "English",
+  "traveller_ID": 1,
+  "agency_ID": 101
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918a"
+  },
+  "preference_ID": 2,
+  "accommodation_type": "Apartment",
+  "min_budget": 150,
+  "max_budget": 300,
+  "transport_mode": "Train",
+  "food_pref": "Halal",
+  "language_pref": "French",
+  "traveller_ID": 2,
+  "agency_ID": 101
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918b"
+  },
+  "preference_ID": 3,
+  "accommodation_type": "Hostel",
+  "min_budget": 50,
+  "max_budget": 100,
+  "transport_mode": "Bus",
+  "food_pref": "None",
+  "language_pref": "Spanish",
+  "traveller_ID": 3,
+  "agency_ID": 102
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918c"
+  },
+  "preference_ID": 4,
+  "accommodation_type": "Villa",
+  "min_budget": 1200,
+  "max_budget": 2000,
+  "transport_mode": "Taxi",
+  "food_pref": "Vegetarian",
+  "language_pref": "English",
+  "traveller_ID": 4,
+  "agency_ID": 102
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918d"
+  },
+  "preference_ID": 5,
+  "accommodation_type": "Apartment",
+  "min_budget": 350,
+  "max_budget": 500,
+  "transport_mode": "Airplane",
+  "food_pref": "Vegan",
+  "language_pref": "Yoruba",
+  "traveller_ID": 5,
+  "agency_ID": 103
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918e"
+  },
+  "preference_ID": 6,
+  "accommodation_type": "Hostel",
+  "min_budget": 200,
+  "max_budget": 250,
+  "transport_mode": "Bus",
+  "food_pref": "None",
+  "language_pref": "Spanish",
+  "traveller_ID": 6,
+  "agency_ID": 103
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be680780918f"
+  },
+  "preference_ID": 7,
+  "accommodation_type": "Hotel",
+  "min_budget": 500,
+  "max_budget": 600,
+  "transport_mode": "Airplane",
+  "food_pref": "Vegetarian",
+  "language_pref": "Arabic",
+  "traveller_ID": 7,
+  "agency_ID": 104
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be6807809190"
+  },
+  "preference_ID": 8,
+  "accommodation_type": "Apartment",
+  "min_budget": 150,
+  "max_budget": 300,
+  "transport_mode": "Train",
+  "food_pref": "Vegan",
+  "language_pref": "French",
+  "traveller_ID": 8,
+  "agency_ID": 104
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be6807809191"
+  },
+  "preference_ID": 9,
+  "accommodation_type": "Hostel",
+  "min_budget": 50,
+  "max_budget": 100,
+  "transport_mode": "Bus",
+  "food_pref": "Halal",
+  "language_pref": "Hindu",
+  "traveller_ID": 9,
+  "agency_ID": 105
+},
+{
+  "_id": {
+    "$oid": "65860d6e1b66be6807809192"
+  },
+  "preference_ID": 10,
+  "accommodation_type": "Mansion",
+  "min_budget": 3000,
+  "max_budget": 5000,
+  "transport_mode": "Ferry",
+  "food_pref": "Vegetarian",
+  "language_pref": "English",
+  "traveller_ID": 10,
+  "agency_ID": 105
+}]

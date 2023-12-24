@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65860d5f1b66be6807809184"
+  },
+  "accommodation_ID": 301,
+  "location": "Downtown",
+  "accom_name": "Luxury Hotel",
+  "cost_per_night": 300,
+  "accom_type": "Hotel",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "65860d5f1b66be6807809185"
+  },
+  "accommodation_ID": 302,
+  "location": "Suburb",
+  "accom_name": "Cozy Apartment",
+  "cost_per_night": 50,
+  "accom_type": "Apartment",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "65860d5f1b66be6807809186"
+  },
+  "accommodation_ID": 303,
+  "location": "City Center",
+  "accom_name": "Budget Hostel",
+  "cost_per_night": 30,
+  "accom_type": "Hostel",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "65860d5f1b66be6807809187"
+  },
+  "accommodation_ID": 304,
+  "location": "Downtown",
+  "accom_name": "Amazing Villa",
+  "cost_per_night": 500,
+  "accom_type": "Villa",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "65860d5f1b66be6807809188"
+  },
+  "accommodation_ID": 305,
+  "location": "Suburb",
+  "accom_name": "Super Mansion",
+  "cost_per_night": 1000,
+  "accom_type": "Mansion",
+  "availability": true
+}]

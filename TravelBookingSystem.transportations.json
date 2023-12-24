@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65860d551b66be680780917f"
+  },
+  "transport_ID": 201,
+  "cost": 50,
+  "departure": {
+    "$date": "2023-01-01T08:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2023-01-01T10:00:00.000Z"
+  },
+  "t_mode": "Bus",
+  "destination": "Amsterdam"
+},
+{
+  "_id": {
+    "$oid": "65860d551b66be6807809180"
+  },
+  "transport_ID": 202,
+  "cost": 100,
+  "departure": {
+    "$date": "2023-02-15T12:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2023-02-15T15:00:00.000Z"
+  },
+  "t_mode": "Train",
+  "destination": "London"
+},
+{
+  "_id": {
+    "$oid": "65860d551b66be6807809181"
+  },
+  "transport_ID": 203,
+  "cost": 75,
+  "departure": {
+    "$date": "2023-07-30T16:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2023-07-30T17:00:00.000Z"
+  },
+  "t_mode": "Taxi",
+  "destination": "Tokyo"
+},
+{
+  "_id": {
+    "$oid": "65860d551b66be6807809182"
+  },
+  "transport_ID": 204,
+  "cost": 50,
+  "departure": {
+    "$date": "2023-08-04T21:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2023-09-04T07:00:00.000Z"
+  },
+  "t_mode": "Airplane",
+  "destination": "Lagos"
+},
+{
+  "_id": {
+    "$oid": "65860d551b66be6807809183"
+  },
+  "transport_ID": 205,
+  "cost": 100,
+  "departure": {
+    "$date": "2023-09-12T20:00:00.000Z"
+  },
+  "arrival": {
+    "$date": "2023-09-12T14:00:00.000Z"
+  },
+  "t_mode": "Ferry",
+  "destination": "Dublin"
+}]
