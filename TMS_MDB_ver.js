@@ -1,10 +1,9 @@
 
 //ALL CODE EXECUTED IN MONGODB SHELL
 
-// Create database
 use TravelBookingSystem;
 
-// Create collections
+// Create collections for the TMS
 db.createCollection("travellers");
 db.createCollection("travel_agencies");
 db.createCollection("transportations");
@@ -12,7 +11,7 @@ db.createCollection("accommodations");
 db.createCollection("preferences");
 db.createCollection("bookings");
 
-// Insert documents
+// Inserting documents with sample data 
 db.travellers.insertMany([
     { traveller_ID: 1, address: '9362 Buell Place', phone: '487-298-1107', t_name: 'Mabelle Marages', email: 'mmarages0@netvibes.com' },
     { traveller_ID: 2, address: '6 Mallory Center', phone: '807-380-3239', t_name: 'Denise Proske', email: 'dproske1@fotki.com' },
@@ -81,10 +80,16 @@ db.bookings.insertMany([
     { booking_ID: 10, b_date: ISODate('2023-12-30'), b_status: 'Confirmed', total_cost: 6500.00, preference_ID: 10, agency_ID: 105, transport_ID: 205, accommodation_ID: 305 }
 ]);
 
+// Create indexes to improve query performance
+db.travellers.createIndex({ traveller_ID: 1 });
+db.travel_agencies.createIndex({ agency_ID: 1 });
+db.transportations.createIndex({ transport_ID: 1 });
+db.accommodations.createIndex({ accommodation_ID: 1 });
+db.preferences.createIndex({ preference_ID: 1 });
+db.bookings.createIndex({ booking_ID: 1 });
 
 
-// Document queries examples
-
+// Some examples of queries that can be executed
 db.travellers.find({ traveller_ID: { $lte: 3 } }, { phone: 1, _id: 0 });
 
 db.travel_agencies.distinct('phone');
